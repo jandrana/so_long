@@ -30,6 +30,7 @@
 
 # Executables
 *.exe
+*.a
 *.out
 *.app
 *.i*86
@@ -50,3 +51,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Visual Studio Code
+.vscode
+
+# Mac
+.DS_Store
+*.icloud
